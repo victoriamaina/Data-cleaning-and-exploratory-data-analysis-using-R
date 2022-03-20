@@ -10,11 +10,12 @@ A Kenyan entrepreneur has created an online cryptography course and would want t
 Technologies used
 
 R programming language
+
 tidyverse
-magritrr
-caret
+
 ggcorrplot
-ggExtra
+ 
+ moments package
 
 Metrics of success
 When i identify which individuals are most likely to click on her ads.
