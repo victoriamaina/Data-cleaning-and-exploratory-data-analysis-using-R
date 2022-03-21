@@ -23,3 +23,5 @@ When i identify which individuals are most likely to click on her ads.
 Dataset
 
 The dataset for this project can be found here [Link]
+
+Link to the IP  [ [Link]]
